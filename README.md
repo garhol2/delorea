@@ -114,3 +114,4 @@ Press any button or move an axis (beyond about 60%) to display the reported valu
 
 *Issues and bugs can be raised on the project board*
 
+-small edit-
